@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-sixtyfour: "Sixtyfour", sans-serif;
+  /* font-family: "Sixtyfour", sans-serif; */
+}
+
+* {
+  box-sizing: border-box;
+}
