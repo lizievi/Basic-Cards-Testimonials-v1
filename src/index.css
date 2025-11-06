@@ -1,12 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
 @import "tailwindcss";
 
 @theme {
-  --font-sixtyfour: "Sixtyfour", sans-serif;
-  /* font-family: "Sixtyfour", sans-serif; */
+  --font-allertaStencil: "Allerta Stencil", sans-serif;
 }
 
 * {
   box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(246, 233, 217);
+
 }
