@@ -13,13 +13,15 @@ El componente está diseñado con una aproximación **Mobile First**, asegurando
 
 Este proyecto utiliza un *stack* de vanguardia, aprovechando las últimas versiones para ofrecer un entorno de desarrollo eficiente.
 
-                | Herramienta | Versión | Propósito |
-| :--- | :--- | :--- |
-| **Frontend** | React | `v19.1.1` | Librería principal para la construcción de la interfaz de usuario. |
-| **Bundler** | Vite | `v7.1.7` | Herramienta de compilación rápida y servidor de desarrollo. |
-| **Estilos** | Tailwind CSS | `v4.1.16` | Framework CSS de utilidad (Configuración moderna `@theme`). |
-| **Lenguaje** | TypeScript | `~5.9.3` | Añade tipado estático para código más robusto y escalable. |
-| **Runtime** | Node.js | `v22.17.0` | Entorno de ejecución. |
+### 🧰 Tecnologías principales
+
+| 🧱 Categoría | 🧩 Herramienta | ⚙️ Versión | 🎯 Propósito |
+| :----------- | :------------- | :---------- | :------------ |
+| **Frontend** | [React](https://react.dev/) | v19.1.1 | Librería principal para la construcción de interfaces de usuario. |
+| **Bundler** | [Vite](https://vitejs.dev/) | v7.1.7 | Herramienta de compilación rápida y servidor de desarrollo. |
+| **Estilos** | [Tailwind CSS](https://tailwindcss.com/) | v4.1.16 | Framework CSS basado en utilidades con configuración moderna (`@theme`). |
+| **Lenguaje** | [TypeScript](https://www.typescriptlang.org/) | ~5.9.3 | Añade tipado estático para un código más robusto y escalable. |
+| **Runtime** | [Node.js](https://nodejs.org/) | v22.17.0 | Entorno de ejecución de JavaScript para desarrollo y build. |
 
 ---
 
