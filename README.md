@@ -1,4 +1,5 @@
 # 🚀 Testimonios de Éxito: Componente Modular
+Visita la app basic-cards-testimonials deployed en Vercel: https://basic-cards-testimonials-v1.vercel.app/
 
 ## ⭐ Resumen del Proyecto
 
